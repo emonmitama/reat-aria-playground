@@ -1,0 +1,2 @@
+- [React Aria](https://react-spectrum.adobe.com/react-aria/getting-started.html)配下のページを参考に、出来るだけReact Ariaの機能だけで実装してください
+- componentsフォルダの下に、いきなりariaをimportしたコンポーネントがいますが、一回ariaを継承だけしたコンポーネントを間に挟む形にしてほしい
